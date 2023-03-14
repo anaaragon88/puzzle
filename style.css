@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+}
+
+#contenedor {
+    background-image: url(https://picsum.photos/300/300);
+    width: 300px;
+    height: 300px;
+}
+
+.primera {
+    background-color: purple;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+
+.segunda {
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+
+}
